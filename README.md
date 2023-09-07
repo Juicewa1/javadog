@@ -1,1 +1,1 @@
-javadog
+Developed a java project that allowed you to create and interact with Dog objects. This program specifies their characteristics and demonstrates their behaviors. It is a  perfect example of object-oriented programming using  Java.
